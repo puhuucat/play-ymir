@@ -5,11 +5,13 @@ Required NPCs per Save Point:
  - Remove Rent Cart Option
 
 • Healer
- - 2,500z Heal only
- - VIP Healer: FREE with 5-minutes Lv10 Agi/Bless
+ - Normal Option: 2,000z Fee - Full Heal and Status Recovery only (also Dispells Steel Body state)
+ - VIP Option: FREE - Full Heal and Status Recovery with 5-minutes Lv10 Agi/Bless (also Dispells Steel Body state)
+ (*NOTE: VIP Option only appears when the player has VIP status active)
 
 • Repairman
  - Repair Costs 10,000z per broken equipment
+ (*NOTE: Adjust all other repairman NPC fees to 10,000z as well)
 
 • Universal Warper
  - Option 1: Warp to Main Town / Town Hall
@@ -22,9 +24,10 @@ Required NPCs per Save Point:
    • Juno
    • Morroc
    • Comodo
+(*NOTE: Dont add warp to: Umbala / Niflheim / Lighthalzen and other future maps)
 
 • Tool Dealer
- - Adjust/Add the following items to standard Tool Dealer
+ - Adjust the Prices and Add the following items to standard Tool Dealer:
    • Blue Gemstone - 1,000z
    • Fire Arrow - 3z
    • Arrow - 1z
@@ -44,5 +47,5 @@ Required NPCs per Save Point:
    • Berserk Potion - 4,500z
 
 • PVP Warper (No Dual - Gepard ID based)
- - PVP Room
- - GVG Room (Must have Guild to Enter)
+ - PVP Room - PVPon Mode
+ - GVG Room (Must have Guild to Enter) - GVGon Mode
