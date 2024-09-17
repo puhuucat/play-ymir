@@ -1,0 +1,51 @@
+Required NPCs per Save Point:
+
+• Kafra Employee
+ - Save only
+ - Remove Rent Cart Option
+
+• Healer
+ - Normal Option: 2,000z Fee - Full Heal and Status Recovery only (also Dispells Steel Body state)
+ - VIP Option: FREE - Full Heal and Status Recovery with 5-minutes Lv10 Agi/Bless (also Dispells Steel Body state)
+ (*NOTE: VIP Option only appears when the player has VIP status active)
+
+• Repairman
+ - Repair Costs 10,000z per broken equipment
+ (*NOTE: Adjust all other repairman NPC fees to 10,000z as well)
+
+• Universal Warper
+ - Option 1: Warp to Main Town / Town Hall
+ - Option 2: 3,000z Fee to the following towns:
+   • Prontera
+   • Alberta
+   • Izlude
+   • Geffen
+   • Aldebaran
+   • Juno
+   • Morroc
+   • Comodo
+(*NOTE: Dont add warp to: Umbala / Niflheim / Lighthalzen and other future maps)
+
+• Tool Dealer
+ - Adjust the Prices and Add the following items to standard Tool Dealer:
+   • Blue Gemstone - 1,000z
+   • Fire Arrow - 3z
+   • Arrow - 1z
+   • Silver Arrow - 3z
+   • Magnifier - 40z
+   • Red Potion - 50z
+   • Orange Potion - 200z
+   • Yellow Potion - 550z
+   • White Potion - 1,200z
+   • Green Potion - 300z
+   • Panacea - 2,000z
+   • Fly Wing - 150z
+   • Butterfly Wing - 500z
+   • Trap - 100z
+   • Concentration Potion - 1,200z
+   • Awakening Potion - 2,250z
+   • Berserk Potion - 4,500z
+
+• PVP Warper (No Dual - Gepard ID based)
+ - PVP Room - PVPon Mode
+ - GVG Room (Must have Guild to Enter) - GVGon Mode
