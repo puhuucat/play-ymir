@@ -7,11 +7,36 @@ Main Town NPCs:
  - Usables Donation Shop
 
 • Job Changer
- - First Job = FREE
- - Second Job = 50,000z
- - Rebirth = 1,500,000z
+ - Job Change Fees:
+  • First Job = FREE
+  • Second Job = 50,000z
+  • Rebirth = 1,500,000z
+
+ - Free Job Changer Weapons: (1st Job) - 15-days duration only
+  • Swordsman - (1109) Blade [0]
+  • Acolyte - (1603) Rod [0]
+  • Archer - (1706) Composite Bow [0]
+  • Magician - (1603) Rod [0]
+  • Thief - (1209) Main Gauche [0]
+  • Merchant - (1353) Battle Axe [0]
+
+ - Free Job Changer Weapons: (2nd Job) - 15-days duration only
+  • Knight - (1159) Two-Handed Sword [0]
+  • Crusader - (1123) Haedonggum [0] - (Customize a duplicate version without card slot)
+  • Priest - (1612) Arc Wand [0]
+  • Monk - (1807) Fist [0]
+  • Assassin - (1254) Jamadhar [0]
+  • Rogue - (1221) Gladius [0]
+  • Wizard - (1612) Arc Wand [0]
+  • Sage - (1612) Arc Wand [0]
+  • Hunter - (1718) Hunter Bow [0]
+  • Bard - (1907) Guitar [0]
+  • Dancer - (1956) Rante Whip [0]
+  • Blacksmith - (1362) Two-Handed Axe [0]
+  • Alchemist - (1516) Sword Mace [0]
 
 • Code Redeemer
+ - NPC to redeem donation codes, gathering codes, etc.
 
 • Reward Master
 
@@ -23,7 +48,7 @@ Main Town NPCs:
  - 50,000z Rental Fee (Cart, Peco, or Falcon)
 
 • Platinum Skill
- - 100,000z per skill
+ - 100,000z per quest skill
 
 • Reset Engineer
  - Stat Reset = 1,000,000z
