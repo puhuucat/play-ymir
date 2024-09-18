@@ -1,0 +1,5 @@
+• Custom Commands:
+ - @checkvip - to check VIP status
+ - @checkmvp - to check MVP points
+ - @checkpvp - to check PVP points
+ - @listen <world/pvp/mvp> - to toggle disable/enable global announcements for megaphones/pvp/mvp
