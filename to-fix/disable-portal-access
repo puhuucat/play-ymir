@@ -1,17 +1,17 @@
-• Disable portals that lead to moc_fild20 for now:
-   - moc_fild01 101 20
-   - prt_fild09 95 22
-   - prt_fild09 246 20
-   - prt_fild10 263 25
-   - moc_fild07 377 201
-   - moc_fild11 188 358
-   - moc_fild11 374 197
-   - moc_fild13 35 171
-   - moc_fild16 124 378
-   - moc_fild16 333 377
+♦ Disable portals that lead to moc_fild20 for now:
+  - moc_fild01 101 20
+  - prt_fild09 95 22
+  - prt_fild09 246 20
+  - prt_fild10 263 25
+  - moc_fild07 377 201
+  - moc_fild11 188 358
+  - moc_fild11 374 197
+  - moc_fild13 35 171
+  - moc_fild16 124 378
+  - moc_fild16 333 377
 
-• Disable portals that lead to Rachel Town
-   - ra_fild12 39 225
+♦ Disable portals that lead to Rachel Town
+  - ra_fild12 39 225
 
-• Disable Moscovia P.R. Officer NPC (Warp to Moscovia)
-   - alberta 245 66
+♦ Disable Moscovia P.R. Officer NPC (Warp to Moscovia)
+  - alberta 245 66
