@@ -1,9 +1,9 @@
-♦ Add Global Announcement for when someone obtains a Card:
-  → ex. Congratulations! [ Rinka ] obtained Poring's Poring Card at prt_fild01 (chance: 0.02%)
+♦ Add Global Announcement for when someone obtains a Card: (with item links)
+  → ex. [Card Drop]: Rinka obtained Poring's <Poring Card> at prt_fild01 (chance: 0.01%)
 
-♦ Add Global Announcement for when someone obtains a rare MVP drop:
-  → ex. Congratulations! [ Rinka ] obtained Sniper Cecil's Combat Knife Blueprint at lhz_dun03 (chance: 5.00%)
-  → ex. Congratulations! [ Rinka ] obtained RSX-0806's Ice Pick Blueprint at ein_dun03 (chance: 0.10%)
+♦ Add Global Announcement for when someone obtains a rare MVP drop: (with item links)
+  → ex. [Rare Drop]: Rinka obtained Sniper Cecil's <Combat Knife Blueprint> at lhz_dun03 (chance: 5.00%)
+  → ex. [Rare Drop]: Rinka obtained RSX-0806's <Ice Pick Blueprint> at ein_dun03 (chance: 0.10%)
 
 ♦ Add as automated announcements in-game:
   1.) Reminders: We will never ask for anything beyond your in-game name, username, or discord. We will never ask about sensitive information such as passwords or emails used.
@@ -12,7 +12,16 @@
   4.) Bug abuse and exploitation will not be tolerated. For an optimal gaming experience, report these instances instead and be rewarded.
   5.) Vending can only be used within Payon Town. An autotrade duration of 8hrs is accessible via the @autotrade command.
   6.) Please treat our staff with respect. Any form of harassment, threat, or hate speech towards our staff will not be tolerated and will result in sanctions.
-
-
---------
+------
   7.) For a detailed list of in-game modifications, check out our features-guides channel in Discord.
+
+♦ Global Announcement Colors:
+  → Streamer Megaphone: Neon Pink
+  → Automated Announcements: Neon Green
+  → Normal Megaphone: White
+  → Opening OCA: White
+  → Quest Item: Cyan
+  → Cards / Rare Item Drop: Light Blue
+  → Opening Donation Package: Orange
+  → Refine +5 above: Red
+  → Welcome (New Character): Yellow (Normal)
