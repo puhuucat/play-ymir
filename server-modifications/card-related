@@ -1,6 +1,6 @@
 ♦ Disable the effects of food-dropping cards. (add 'Card Effect is Disabled' in RED in item description)
   - (4344) Anopheles Card
-  - (4391) Retribution Card
+  - (4391) Baroness of Retribution Card
   - (4355) Gremlin Card
   - (4385) Dragon Egg Card
   - (4377) Grove Card
@@ -27,3 +27,25 @@
   - (4290) Cat O' Nine Tails Card
   - (4237) Owl Duke Card
   - (4241) Arc Angeling Card
+  - (4174) 	Deviling Card
+  - (4354) Gemini-S58 Card
+  - (4392) Dame of Sentinel Card
+  - (4393) Mistress of Shelter Card
+  - (4391) Baroness of Retribution Card
+  - (4394) Lady Solace Card
+  - (4396) Odium of Thanatos Card
+  - (4397) Despero of Thanatos Card
+  - (4395) Maero of Thanatos Card
+  - (4398) Dolor of Thanatos Card
+  - (4384) Hydrolancer Card
+  - (4406) Skeggiold Card
+  - (4423) Galion Card
+  - (4427) Sword Guardian Card
+  - (4428) Bow Guardian Card
+  - (4429) Salamander Card
+  - (4431) Kasa Card
+  - (4426) Byorgue Card
+  - (4440) Necromancer Card
+
+♦ Disable the effects of all MVP cards. (add 'Card Effect is Disabled' in RED in item description)
+  - 
