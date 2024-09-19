@@ -1,3 +1,20 @@
+♦ Modify the rates for some item-drop cards:
+  - (4205) Mimic Card
+    → Reduce 'Old Blue Box' drop rate from 0.10% > 0.05%
+    → Card Script: bAddMonsterDropItem,603,10 > bAddMonsterDropItem,603,5
+  - (4187) Raydric Archer Card
+    → Increase 'Box of Resentment' drop rate from 1.00% > 2.00%
+    → Card Script: bAddMonsterDropItem,12030,RC_Demon,100 > bAddMonsterDropItem,12030,RC_Demon,200
+  - (4262) Cloud Hermit Card
+    → Reduce 'Box of Gloom' drop rate from 1.00% > 2.00%
+    → Card Script: bAddMonsterDropItem,12029,RC_Plant,100 > bAddMonsterDropItem,12029,RC_Plant,200
+  - (4228) Sleeper Card
+    → Reduce 'Box of Drowsiness' drop rate from 1.00% > 2.00%
+    → Card Script: bAddMonsterDropItem,12031,RC_Fish,100 > bAddMonsterDropItem,12031,RC_Fish,200
+  - (4265) Jing Guai Card
+    → Reduce 'Box of Sunlight' drop rate from 1.00% > 2.00%
+    → Card Script: bAddMonsterDropItem,12033,RC_Angel,100 > bAddMonsterDropItem,12033,RC_Angel,200
+
 ♦ Disable the effects of food-dropping cards. (add 'Card Effect is Disabled' in RED in item description)
   - (4344) Anopheles Card
   - (4391) Baroness of Retribution Card
