@@ -1,13 +1,13 @@
 ♦ Modified spawn amount for specific monsters on specific maps:
-  • List TBA
-  • ex. Adjust Spawn amount for monsters in in_sphinx4:
-    → Anubis [15] - 1098
+  → List TBA
+  → ex. Adjust Spawn amount for monsters in in_sphinx4:
+    • Anubis [15] - 1098
       - Reduce spawn amount from 15 to 5
 
 ♦ Modified spawn timer for specific monsters on specific maps:
-  • List TBA
-  • ex. Adjust Spawn for monsters in ayo_dun02:
-    → Tamruan [100] - 1584
+  → List TBA
+  → ex. Adjust Spawn for monsters in ayo_dun02:
+    • Tamruan [100] - 1584
       - [30/100] 45 sec ~ 2 min
       - [30/100] 1 min ~ 3 min
       - [40/100] Instant Spawn
