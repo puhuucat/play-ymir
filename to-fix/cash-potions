@@ -1,0 +1,11 @@
+♦ Set Light Potion Box weight to 1
+  - Must not be openable if the weight will exceed weight capacity or cause 90% weight
+♦ Set Light Potion weight to 3:
+  - Light White Potion
+  - Light Blue Potion
+
+♦ Set Elite Siege Potion Box weight to 1 (both I and II)
+  - Must not be openable if the weight will exceed weight capacity or cause 90% weight
+♦ Set Siege Potion weight to 10:
+  - Siege White Potion
+  - Siege Blue Potion
