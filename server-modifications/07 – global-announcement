@@ -1,9 +1,17 @@
 ♦ Add Global Announcement for when someone obtains a Card: (with item links)
-  → ex. [Card Drop]: Rinka obtained Poring's <Poring Card> at prt_fild01 (chance: 0.01%)
+  → ex. [Card Drop] Rinka obtained Poring's <Poring Card> at prt_fild01 (chance: 0.01%)
 
 ♦ Add Global Announcement for when someone obtains a rare MVP drop: (with item links)
-  → ex. [Rare Drop]: Rinka obtained Sniper Cecil's <Combat Knife Blueprint> at lhz_dun03 (chance: 5.00%)
-  → ex. [Rare Drop]: Rinka obtained RSX-0806's <Ice Pick Blueprint> at ein_dun03 (chance: 0.10%)
+  → ex. [Rare Drop] Rinka obtained Sniper Cecil's <Combat Knife Blueprint> at lhz_dun03 (chance: 5.00%)
+  → ex. [Rare Drop] Rinka obtained RSX-0806's <Ice Pick Blueprint> at ein_dun03 (chance: 0.10%)
+
+♦ Add Global Announcement for successful refines above safety grade:
+  → Weapons start above +4 (announced at: +5 onwards):
+    • ex. [Refinement] Rinka has successfuly refined Chain [3] to +5
+  → If possible for Whitesmith skill, Weapon Refine as well:
+    • ex. [Refinement] Rinka has successfuly refined Arbalest [2] to +5 using the skill, Weapon Refine
+  → Armors start above +4 (announced at +5 onwards):
+    • ex. [Refinement] Rinka has successfuly refined Silk Robe [1] to +5
 
 ♦ Add as automated announcements in-game:
   1.) Reminders: We will never ask for anything beyond your in-game name, username, or discord. We will never ask about sensitive information such as passwords or emails used.
@@ -17,11 +25,19 @@
 
 ♦ Global Announcement Colors:
   → Streamer Megaphone: Neon Pink
+    • ex. [Streamer] Rinka is shouting: Watch my stream guys! Giveaway every 30 minutes! twitch.tv/MarkV
   → Automated Announcements: Neon Green
+    • ex. [Announcement] Real Money Trading (RMT) within the premises of the server is strictly prohibited. Any form of RMT promotion will be warned or sanctioned if repeatedly caught.
   → Normal Megaphone: White
+    • ex. [Megaphone] Rinka is shouting: B> Myst Case Card 10pods RUSH. PM lang
   → Opening OCA: White
+    • ex. [Old Card Album] Rinka opened an Old Card Album and obtained <Abysmal Knight Card>
   → Quest Item: Cyan
+    • ex. [Quest] Rinka successfully crafted <C. Golden Majestic Goat> from MVP Soul Quest Shop
   → Cards / Rare Item Drop: Light Blue
+    • ex. [Card Drop] Rinka obtained Sniper Cecil's <Combat Knife Blueprint> at lhz_dun03 (chance: 5.00%)
+    • ex. [Rare Drop] Rinka obtained RSX-0806's <Ice Pick Blueprint> at ein_dun03 (chance: 0.10%)
   → Opening Donation Package: Orange
+    • ex. [Donation] Rinka has opened a Donation Package amounting to
   → Refine +5 above: Red
-  → Welcome (New Character): Yellow (Normal)
+    • ex. [Refinement] Rinka has successfuly refined Silk Robe [1] to +5
