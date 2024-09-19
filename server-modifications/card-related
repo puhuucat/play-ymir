@@ -1,111 +1,111 @@
-♦ Modify the rates for some item-drop cards:
-  - (4205) Mimic Card
-    → Reduce 'Old Blue Box' drop rate from 0.10% > 0.05%
-    → Card Script: bAddMonsterDropItem,603,10 > bAddMonsterDropItem,603,5
-  - (4187) Raydric Archer Card
-    → Increase 'Box of Resentment' drop rate from 1.00% > 2.00%
-    → Card Script: bAddMonsterDropItem,12030,RC_Demon,100 > bAddMonsterDropItem,12030,RC_Demon,200
-  - (4262) Cloud Hermit Card
-    → Reduce 'Box of Gloom' drop rate from 1.00% > 2.00%
-    → Card Script: bAddMonsterDropItem,12029,RC_Plant,100 > bAddMonsterDropItem,12029,RC_Plant,200
-  - (4228) Sleeper Card
-    → Reduce 'Box of Drowsiness' drop rate from 1.00% > 2.00%
-    → Card Script: bAddMonsterDropItem,12031,RC_Fish,100 > bAddMonsterDropItem,12031,RC_Fish,200
-  - (4265) Jing Guai Card
-    → Reduce 'Box of Sunlight' drop rate from 1.00% > 2.00%
-    → Card Script: bAddMonsterDropItem,12033,RC_Angel,100 > bAddMonsterDropItem,12033,RC_Angel,200
+♦ Modify the rates for some item-drop cards (update item description if rates are mentioned):
+  → (4205) Mimic Card
+    - Reduce 'Old Blue Box' drop rate from 0.10% > 0.05%
+    - Card Script: bAddMonsterDropItem,603,10 > bAddMonsterDropItem,603,5
+  → (4187) Raydric Archer Card
+    - Increase 'Box of Resentment' drop rate from 1.00% > 2.00%
+    - Card Script: bAddMonsterDropItem,12030,RC_Demon,100 > bAddMonsterDropItem,12030,RC_Demon,200
+  → (4262) Cloud Hermit Card
+    - Reduce 'Box of Gloom' drop rate from 1.00% > 2.00%
+    - Card Script: bAddMonsterDropItem,12029,RC_Plant,100 > bAddMonsterDropItem,12029,RC_Plant,200
+  → (4228) Sleeper Card
+    - Reduce 'Box of Drowsiness' drop rate from 1.00% > 2.00%
+    - Card Script: bAddMonsterDropItem,12031,RC_Fish,100 > bAddMonsterDropItem,12031,RC_Fish,200
+  → (4265) Jing Guai Card
+    - Reduce 'Box of Sunlight' drop rate from 1.00% > 2.00%
+    - Card Script: bAddMonsterDropItem,12033,RC_Angel,100 > bAddMonsterDropItem,12033,RC_Angel,200
 
-♦ Disable the effects of food-dropping cards. (add 'Card Effect is Disabled' in RED in item description)
-  - (4344) Anopheles Card
-  - (4391) Baroness of Retribution Card
-  - (4355) Gremlin Card
-  - (4385) Dragon Egg Card
-  - (4377) Grove Card
-  - (4347) Armeyer Dinze Card
+♦ Disable the effects of food-dropping cards (add 'Card Effect is Disabled' in RED in item description):
+  → (4344) Anopheles Card
+  → (4391) Baroness of Retribution Card
+  → (4355) Gremlin Card
+  → (4385) Dragon Egg Card
+  → (4377) Grove Card
+  → (4347) Armeyer Dinze Card
 
-♦ Disable the effects of all Mini-Boss cards. (add 'Card Effect is Disabled' in RED in item description)
-  - (4306) Toad Card
-  - (4197) Mastering Card
-  - (4179) Dragon Fly Card
-  - (4183) Vagabond Wolf Card
-  - (4266) Eclipse Card
-  - (4054) Angeling Card
-  - (4047) Ghostring Card
-  - (4171) Dark Priest Card
-  - (4207) Mysteltainn Card
-  - (4254) Ogretooth Card
-  - (4250) Executioner Card
-  - (4163) Gryphon Card
-  - (4203) Mutant Dragonoid Card
-  - (4300) Chimera Card
-  - (4198) Maya Purple Card
-  - (4238) Owl Baron Card
-  - (4169) Dark Illusion Card
-  - (4290) Cat O' Nine Tails Card
-  - (4237) Owl Duke Card
-  - (4241) Arc Angeling Card
-  - (4174) Deviling Card
-  - (4354) Gemini-S58 Card
-  - (4392) Dame of Sentinel Card
-  - (4393) Mistress of Shelter Card
-  - (4391) Baroness of Retribution Card
-  - (4394) Lady Solace Card
-  - (4396) Odium of Thanatos Card
-  - (4397) Despero of Thanatos Card
-  - (4395) Maero of Thanatos Card
-  - (4398) Dolor of Thanatos Card
-  - (4384) Hydrolancer Card
-  - (4406) Skeggiold Card
-  - (4423) Galion Card
-  - (4427) Sword Guardian Card
-  - (4428) Bow Guardian Card
-  - (4429) Salamander Card
-  - (4431) Kasa Card
-  - (4426) Byorgue Card
-  - (4440) Necromancer Card
+♦ Disable the effects of all Mini-Boss cards (add 'Card Effect is Disabled' in RED in item description):
+  → (4306) Toad Card
+  → (4197) Mastering Card
+  → (4179) Dragon Fly Card
+  → (4183) Vagabond Wolf Card
+  → (4266) Eclipse Card
+  → (4054) Angeling Card
+  → (4047) Ghostring Card
+  → (4171) Dark Priest Card
+  → (4207) Mysteltainn Card
+  → (4254) Ogretooth Card
+  → (4250) Executioner Card
+  → (4163) Gryphon Card
+  → (4203) Mutant Dragonoid Card
+  → (4300) Chimera Card
+  → (4198) Maya Purple Card
+  → (4238) Owl Baron Card
+  → (4169) Dark Illusion Card
+  → (4290) Cat O' Nine Tails Card
+  → (4237) Owl Duke Card
+  → (4241) Arc Angeling Card
+  → (4174) Deviling Card
+  → (4354) Gemini→S58 Card
+  → (4392) Dame of Sentinel Card
+  → (4393) Mistress of Shelter Card
+  → (4391) Baroness of Retribution Card
+  → (4394) Lady Solace Card
+  → (4396) Odium of Thanatos Card
+  → (4397) Despero of Thanatos Card
+  → (4395) Maero of Thanatos Card
+  → (4398) Dolor of Thanatos Card
+  → (4384) Hydrolancer Card
+  → (4406) Skeggiold Card
+  → (4423) Galion Card
+  → (4427) Sword Guardian Card
+  → (4428) Bow Guardian Card
+  → (4429) Salamander Card
+  → (4431) Kasa Card
+  → (4426) Byorgue Card
+  → (4440) Necromancer Card
 
-♦ Disable the effects of all MVP cards. (add 'Card Effect is Disabled' in RED in item description)
-  - (4144) Osiris Card
-  - (4147) Baphomet Card
-  - (4142) Doppelganger Card
-  - (4132) Mistress Card
-  - (4128) Golden Thiefbug Card
-  - (4143) Orc Hero Card
-  - (4137) Drake Card
-  - (4123) Eddga Card
-  - (4146) Maya Card
-  - (4131) Moonlight Flower Card
-  - (4148) Pharaoh Card
-  - (4121) Phreeoni Card
-  - (4135) Orc Lord Card
-  - (4318) Stormy Knight Card
-  - (4324) Hatii Card
-  - (4168) Dark Lord Card
-  - (4305) Turtle General Card
-  - (4276) Lord of The Dead Card
-  - (4134) Dracula
-  - (4330) Evil Snake Lord Card
-  - (4263) Incantation Samurai Card
-  - (4236) Amon Ra Card
-  - (4302) Tao Gunka Card
-  - (4342) RSX-0806 Card
-  - (4372) White Lady Card
-  - (4357) Lord Knight Card
-  - (4359) Assassin Cross Card
-  - (4361) MasterSmith Card
-  - (4363) High Priest Card
-  - (4367) Sniper Card
-  - (4365) High Wizard Card
-  - (4352) Boss Egnigem Card
-  - (4374) Vesper Card
-  - (4376) Lady Tanee Card
-  - (4399) Memory of Thanatos Card
-  - (4386) Detardeurus Card
-  - (4403) Kiel-D-01 Card
-  - (4407) Randgris Card
-  - (4408) Gloom Under Night Card
-  - (4419) Ktullanux Card
-  - (4425) Atroce Card
-  - (4430) Ifrit Card
-  - (4441) Fallen Bishop Card
-  - (4145) Berzebub Card
+♦ Disable the effects of all MVP cards (add 'Card Effect is Disabled' in RED in item description):
+  → (4144) Osiris Card
+  → (4147) Baphomet Card
+  → (4142) Doppelganger Card
+  → (4132) Mistress Card
+  → (4128) Golden Thiefbug Card
+  → (4143) Orc Hero Card
+  → (4137) Drake Card
+  → (4123) Eddga Card
+  → (4146) Maya Card
+  → (4131) Moonlight Flower Card
+  → (4148) Pharaoh Card
+  → (4121) Phreeoni Card
+  → (4135) Orc Lord Card
+  → (4318) Stormy Knight Card
+  → (4324) Hatii Card
+  → (4168) Dark Lord Card
+  → (4305) Turtle General Card
+  → (4276) Lord of The Dead Card
+  → (4134) Dracula
+  → (4330) Evil Snake Lord Card
+  → (4263) Incantation Samurai Card
+  → (4236) Amon Ra Card
+  → (4302) Tao Gunka Card
+  → (4342) RSX→0806 Card
+  → (4372) White Lady Card
+  → (4357) Lord Knight Card
+  → (4359) Assassin Cross Card
+  → (4361) MasterSmith Card
+  → (4363) High Priest Card
+  → (4367) Sniper Card
+  → (4365) High Wizard Card
+  → (4352) Boss Egnigem Card
+  → (4374) Vesper Card
+  → (4376) Lady Tanee Card
+  → (4399) Memory of Thanatos Card
+  → (4386) Detardeurus Card
+  → (4403) Kiel→D→01 Card
+  → (4407) Randgris Card
+  → (4408) Gloom Under Night Card
+  → (4419) Ktullanux Card
+  → (4425) Atroce Card
+  → (4430) Ifrit Card
+  → (4441) Fallen Bishop Card
+  → (4145) Berzebub Card
