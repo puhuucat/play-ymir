@@ -1,20 +1,20 @@
-• Enable the following player commands:
- - @commands
- - @mi 
- - @ii
- - @whereis
- - @whodrops
- - @rates
- - @refresh
- - @uptime
- - @autotrade
- - @ltp
- - @showexp
- - @showzeny
- - @noask
- - @time
- - @lgp (and other related lgp commands)
- - @exp
- - @homstats
- - @changegm
- - @breakguild
+♦ Enable the following player commands:
+  - @commands
+  - @mi 
+  - @ii
+  - @whereis
+  - @whodrops
+  - @rates
+  - @refresh
+  - @uptime
+  - @autotrade
+  - @ltp
+  - @showexp
+  - @showzeny
+  - @noask
+  - @time
+  - @lgp (and other related lgp commands)
+  - @exp
+  - @homstats
+  - @changegm
+  - @breakguild
