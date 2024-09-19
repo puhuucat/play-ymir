@@ -10,8 +10,8 @@
   - moc_fild16 124 378
   - moc_fild16 333 377
 
-♦ Disable portals that lead to Rachel Town
-  - ra_fild12 39 225
+♦ Disable portals that lead to Rachel Town:
+  - Location: ra_fild12 39 225
 
-♦ Disable Moscovia P.R. Officer NPC (Warp to Moscovia)
-  - alberta 245 66
+♦ Disable Moscovia P.R. Officer NPC (Warp to Moscovia):
+  - Location: alberta 245 66
